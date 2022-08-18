@@ -1,2 +1,2 @@
-# AirGnB
-Peer-to-peer musical instrument rental platform
+# AirGnB-express
+Original version of AirGnB using Express.js as a backend framework
