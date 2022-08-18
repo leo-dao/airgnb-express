@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "Peer-to-peer musical instrument rental platform",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm start\" "
+  },
+  "author": "Léo Dao",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.2.2"
+  }
+}
